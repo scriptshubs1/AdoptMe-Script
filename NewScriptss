@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptshubs1/MM2-Script/refs/heads/main/New-Script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptshubs1/AdoptMe-Script/refs/heads/main/New-Script"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptshubs1/farm/refs/heads/main/11"))()
